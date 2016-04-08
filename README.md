@@ -1,4 +1,4 @@
-# ![Awesome](https://github.com/magicalpanda/magicalpanda.github.com/blob/master/images/awesome_logo_small.png?raw=true) MagicalRecord
+# ![Awesome](https://github.com/magicalpanda/magicalpanda.github.com/blob/master/images/awesome_logo_small.png?raw=true) MagicalRecord by CapoChino
 
 [![Circle CI](https://circleci.com/gh/magicalpanda/MagicalRecord/tree/develop.svg?style=svg)](https://circleci.com/gh/magicalpanda/MagicalRecord/tree/develop)
 
